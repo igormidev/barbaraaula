@@ -21,7 +21,7 @@ void main() {
   // Lista sempre inicia no valor 0
   //                               0         1        2
   final List<String> animais = ['Raposa', 'Coelho', 'Galo'];
-  print(animais.first); // Rapose
+  print(animais.first); // Raposa
   print(animais.last); // Galo
   print(animais[1]); // Coelho animais.elementAt(1)
 
